@@ -20,3 +20,14 @@ To get started with this project, follow the steps below:
 
 ### Installation
 1. Clone this repository:
+git clone [https://github.com/yourusername/yolo-object-detection.git](https://github.com/oussama458/D-tection-d-Objets)
+
+2. Install dependencies
+3. Run the python code
+
+## Acknowledgements
+- Thanks to the creators of the YOLO algorithm.
+- This project utilizes the PyTorch framework.
+
+## Contact
+For any queries, you can reach out to `email@example.com`.
