@@ -30,4 +30,4 @@ git clone https://github.com/oussama458/Object-Detection-with-YOLO
 - This project utilizes the PyTorch framework.
 
 ## Contact
-For any queries, you can reach out to `email@example.com`.
+For any queries, you can reach out to `oussamakhouya458@gmail.com`.
